@@ -20,16 +20,16 @@
 
 // ** MySQL settings ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'local' );
+define( 'prj_trainingkishang', 'local' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'prj_trainingkishang', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'root' );
+define( 'OkYYunb6XleNn23s', 'root' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( '172.104.166.158', 'localhost' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
