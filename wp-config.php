@@ -23,7 +23,7 @@
 define( 'prj_trainingkishang', 'local' );
 
 /** MySQL database username */
-define( 'prj_trainingkishang', 'root' );
+define( 'prj_trainingkishang ', 'root' );
 
 /** MySQL database password */
 define( 'OkYYunb6XleNn23s', 'root' );
